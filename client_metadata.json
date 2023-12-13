@@ -1,0 +1,157 @@
+{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2200",
+        "securityProtocol": "SSL",
+        "method": "put",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:45:38"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2200",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:47:36"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "put",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:47:49"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:47:53"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:48:01"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:48:09"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:48:16"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "put",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:58:29"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "put",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:58:40"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:59:01"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:59:22"
+}{
+    "type": "metadata",
+    "name": "RegistrationChangeBrokerRecord",
+    "fields": {
+        "brokerId": 1234,
+        "brokerHost": "localhost",
+        "brokerPort": "2300",
+        "securityProtocol": "SSL",
+        "method": "get",
+        "rackId": "/rack-1",
+        "epoch": 0
+    },
+    "timestamp": "2023-11-23 10:59:59"
+}
